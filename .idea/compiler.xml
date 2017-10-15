@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="enumdefiner" />
+        <module name="sourceundertest" />
+        <module name="symbolsolveruser" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="enumdefiner" target="1.5" />
+      <module name="jssnameexprenumjarexample" target="1.5" />
+      <module name="sourceundertest" target="1.5" />
+      <module name="symbolsolveruser" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

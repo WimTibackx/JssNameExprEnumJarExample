@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/enumdefiner/enumdefiner.iml" filepath="$PROJECT_DIR$/enumdefiner/enumdefiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jssnameexprenumjarexample.iml" filepath="$PROJECT_DIR$/jssnameexprenumjarexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sourceundertest/sourceundertest.iml" filepath="$PROJECT_DIR$/sourceundertest/sourceundertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/symbolsolveruser/symbolsolveruser.iml" filepath="$PROJECT_DIR$/symbolsolveruser/symbolsolveruser.iml" />
+    </modules>
+  </component>
+</project>
